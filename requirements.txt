@@ -1,0 +1,6 @@
+youtube-transcript-api
+streamlit
+openai
+transformers
+torch
+
